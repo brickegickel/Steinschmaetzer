@@ -3258,6 +3258,46 @@
 				<coordinates>8.454350549339583,50.05221832208532,0</coordinates>
 			</Point>
 		</Placemark>
+		<Placemark>
+			<name>18.4</name>
+			<TimeStamp><when>2024-03-30T09:36:29Z</when></TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point><coordinates>8.379270499572158,50.02922270447016</coordinates></Point>
+			<ExtendedData>
+				<Data name="accuracy">
+					<displayName>Accuracy</displayName>
+					<value>3.5</value>
+				</Data>
+				<Data name="provider">
+					<displayName>Provider</displayName>
+					<value>gps</value>
+				</Data>
+				<Data name="tags">
+					<displayName>Tags</displayName>
+					<value>Haufen,Kasten </value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<name>30</name>
+			<TimeStamp><when>2024-03-30T11:12:20Z</when></TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point><coordinates>8.380308263003826,50.02648299559951</coordinates></Point>
+			<ExtendedData>
+				<Data name="accuracy">
+					<displayName>Accuracy</displayName>
+					<value>13.0</value>
+				</Data>
+				<Data name="provider">
+					<displayName>Provider</displayName>
+					<value>gps</value>
+				</Data>
+				<Data name="tags">
+					<displayName>Tags</displayName>
+					<value>Haufen</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
 	</Folder>
 </Document>
 </kml>
