@@ -1,59 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>GPSWpts-2024-02-10</name>
+	<name>Steinschmätzer TN 1.4.2024GPSWpts-2024-02-10</name>
 	<open>1</open>
 	<Style id="failed1">
 	</Style>
-	<StyleMap id="failed">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#failed0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#failed1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="failed0">
-	</Style>
-	<StyleMap id="m_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="s_ylw-pushpin">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="s_ylw-pushpin_hl">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen0">
+	<Style id="wGreen1035">
 		<IconStyle>
 			<color>ff0000ff</color>
 			<Icon>
@@ -61,77 +22,7 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="wGreen1">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen10">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen100">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen101">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen1010">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen108</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen101</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wGreen1011">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen1055</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1043</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wGreen1012">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen1018</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1017</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen1013">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1014">
+	<Style id="wGreen1062">
 		<IconStyle>
 			<color>ff0000ff</color>
 			<Icon>
@@ -149,370 +40,6 @@
 			<styleUrl>#wGreen1062</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="wGreen1016">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1017">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1018">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1019">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen102">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen1027</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1035</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wGreen1020">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen104</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1058</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen1021">
-		<IconStyle>
-			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen1022">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen1045</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1046</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen1023">
-		<IconStyle>
-			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1024">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1025">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1026">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1027">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen1028">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen1056</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1052</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wGreen1029">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen1030</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen109</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen103">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1030">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1031">
-		<IconStyle>
-			<color>ffff0000</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen1032">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen1036</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1031</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen1033">
-		<IconStyle>
-			<color>ffff0000</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1034">
-		<IconStyle>
-			<color>ffff0000</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1035">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1036">
-		<IconStyle>
-			<color>ffff0000</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1037">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1038">
-		<IconStyle>
-			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen1039">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen1040</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1059</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen104">
-		<IconStyle>
-			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1040">
-		<IconStyle>
-			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1041">
-		<IconStyle>
-			<color>ffff0000</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen1042">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen1061</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1019</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen1043">
-		<IconStyle>
-			<color>ffff0000</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1044">
-		<IconStyle>
-			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1045">
-		<IconStyle>
-			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1046">
-		<IconStyle>
-			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1047">
-		<IconStyle>
-			<color>ffff0000</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen1048">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen1044</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1038</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wGreen1049">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen1021</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1023</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wGreen105">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen1033</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1034</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wGreen1050">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen1047</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1041</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wGreen1051">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen1037</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1016</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen1052">
-		<IconStyle>
-			<color>ffff0798</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen1053">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen1014</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1013</styleUrl>
-		</Pair>
-	</StyleMap>
 	<StyleMap id="wGreen1054">
 		<Pair>
 			<key>normal</key>
@@ -523,49 +50,17 @@
 			<styleUrl>#wGreen1024</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="wGreen1055">
-		<IconStyle>
-			<color>ffff0000</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1056">
-		<IconStyle>
-			<color>ffff0798</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen1057">
+	<StyleMap id="wGreen1012">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#wGreen1064</styleUrl>
+			<styleUrl>#wGreen1018</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#wGreen10</styleUrl>
+			<styleUrl>#wGreen1017</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="wGreen1058">
-		<IconStyle>
-			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1059">
-		<IconStyle>
-			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen106">
+	<Style id="wGreen1016">
 		<IconStyle>
 			<color>ff0000ff</color>
 			<Icon>
@@ -573,16 +68,6 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<StyleMap id="wGreen1060">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen1063</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1026</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="wGreen1061">
 		<IconStyle>
 			<color>ff0000ff</color>
@@ -591,631 +76,25 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="wGreen1062">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1063">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen1064">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen107">
+	<StyleMap id="wGreen1051">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#wGreen106</styleUrl>
+			<styleUrl>#wGreen1037</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#wGreen103</styleUrl>
+			<styleUrl>#wGreen1016</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="wGreen108">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen109">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen11">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen12">
-		<IconStyle>
-			<color>ffff0ccb</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen13">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen38</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen12</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen14">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen15">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen16">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen35</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen28</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wGreen17">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen43</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen33</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wGreen18">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen29</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen37</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen19">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen3</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen45</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen20">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen21">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen32</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen6</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen22">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen23">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen24">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen40</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen20</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wGreen25">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen4</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wGreen26">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen11</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen19</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen27">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen28">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen29">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen3">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen30">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen42</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen27</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen31">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen32">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen33">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen34">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen35">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen36">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen37">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen38">
-		<IconStyle>
-			<color>ffff0ccb</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen39">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen7</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen4">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen40">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen41">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen42">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen43">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen44">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen31</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen36</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen45">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen46">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen47">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen23</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen14</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wGreen5">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen15</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen41</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wGreen6">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wGreen7">
-		<IconStyle>
-			<color>ffff0cae</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wGreen8">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen46</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wGreen9">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wGreen22</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wGreen34</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wYellow">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wYellow4</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wYellow0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wYellow0">
-		<IconStyle>
-			<color>ffff0000</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow1">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wYellow2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wYellow1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wYellow5</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wYellow3">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow30">
+	<Style id="wYellow331">
 		<IconStyle>
 			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow31">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow310">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow311">
-		<IconStyle>
-			<color>ffff0000</color>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
 	<Style id="wYellow312">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow313">
-		<IconStyle>
-			<color>ffff0000</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wYellow314">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wYellow343</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wYellow339</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wYellow315">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wYellow34</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wYellow33</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wYellow316">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wYellow350</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wYellow352</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wYellow317">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wYellow320</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wYellow321</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wYellow318">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow319">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow32">
-		<IconStyle>
-			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow320">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow321">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wYellow322">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wYellow31</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wYellow3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wYellow323">
 		<IconStyle>
 			<color>ff0000ff</color>
 			<Icon>
@@ -1233,153 +112,19 @@
 			<styleUrl>#wYellow354</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="wYellow325">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
+	<Style id="failed0">
 	</Style>
-	<Style id="wYellow326">
-		<IconStyle>
-			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow327">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wYellow328">
+	<StyleMap id="wGreen1050">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#wYellow329</styleUrl>
+			<styleUrl>#wGreen1047</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#wYellow356</styleUrl>
+			<styleUrl>#wGreen1041</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="wYellow329">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow33">
-		<IconStyle>
-			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wYellow330">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wYellow335</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wYellow336</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wYellow331">
-		<IconStyle>
-			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow332">
-		<IconStyle>
-			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow333">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wYellow334">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wYellow323</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wYellow325</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wYellow335">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow336">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wYellow337">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wYellow353</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wYellow347</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="wYellow338">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wYellow35</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wYellow331</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wYellow339">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow34">
-		<IconStyle>
-			<color>ffff00aa</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow340">
+	<Style id="wYellow30">
 		<IconStyle>
 			<color>ffff00aa</color>
 			<Icon>
@@ -1397,35 +142,7 @@
 			<styleUrl>#wYellow32</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="wYellow342">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wYellow340</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wYellow345</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wYellow343">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="wYellow344">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#wYellow333</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#wYellow312</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="wYellow345">
+	<Style id="wYellow352">
 		<IconStyle>
 			<color>ffff00aa</color>
 			<Icon>
@@ -1433,17 +150,85 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<StyleMap id="wYellow346">
+	<StyleMap id="wYellow316">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#wYellow355</styleUrl>
+			<styleUrl>#wYellow350</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#wYellow358</styleUrl>
+			<styleUrl>#wYellow352</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="wYellow347">
+	<Style id="wYellow3">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wYellow322">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wYellow31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wYellow3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen1034">
+		<IconStyle>
+			<color>ffff0000</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen105">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen1033</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen1034</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wYellow323">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow321">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen1025">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow332">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen1018">
 		<IconStyle>
 			<color>ff0000ff</color>
 			<Icon>
@@ -1461,17 +246,41 @@
 			<styleUrl>#wYellow326</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="wYellow349">
+	<Style id="wGreen1044">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow333">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen104">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen1020">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#wYellow360</styleUrl>
+			<styleUrl>#wGreen104</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#wYellow359</styleUrl>
+			<styleUrl>#wGreen1058</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="wYellow35">
+	<Style id="wYellow340">
 		<IconStyle>
 			<color>ffff00aa</color>
 			<Icon>
@@ -1479,25 +288,25 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="wYellow350">
+	<Style id="wYellow313">
 		<IconStyle>
-			<color>ffff00aa</color>
+			<color>ffff0000</color>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
-	<StyleMap id="wYellow351">
+	<StyleMap id="wYellow38">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#wYellow310</styleUrl>
+			<styleUrl>#wYellow313</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#wYellow39</styleUrl>
+			<styleUrl>#wYellow311</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="wYellow352">
+	<Style id="wGreen1059">
 		<IconStyle>
 			<color>ffff00aa</color>
 			<Icon>
@@ -1505,31 +314,43 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="wYellow353">
+	<Style id="wGreen1040">
 		<IconStyle>
-			<color>ff0000ff</color>
+			<color>ffff00aa</color>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="wYellow354">
+	<Style id="wGreen1036">
 		<IconStyle>
-			<color>ff0000ff</color>
+			<color>ffff0000</color>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="wYellow355">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow356">
+	<StyleMap id="wGreen1032">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen1036</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen1031</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="wGreen1039">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen1040</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen1059</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wYellow319">
 		<IconStyle>
 			<color>ff0000ff</color>
 			<Icon>
@@ -1538,22 +359,6 @@
 		</IconStyle>
 	</Style>
 	<Style id="wYellow357">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow358">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow359">
 		<IconStyle>
 			<color>ff0000ff</color>
 			<Icon>
@@ -1571,7 +376,17 @@
 			<styleUrl>#wYellow319</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="wYellow360">
+	<StyleMap id="wGreen102">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen1027</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen1035</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen106">
 		<IconStyle>
 			<color>ff0000ff</color>
 			<Icon>
@@ -1579,9 +394,159 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="wYellow361">
+	<StyleMap id="wGreen107">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen106</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen103</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wYellow33">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen1055">
+		<IconStyle>
+			<color>ffff0000</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow34">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen1046">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow35">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen1045">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen103">
 		<IconStyle>
 			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow329">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen101">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow359">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wYellow2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wYellow1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wYellow5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen1013">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen1053">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen1014</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen1013</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen1026">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen1023">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen43">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen1021">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen1038">
+		<IconStyle>
+			<color>ffff00aa</color>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
 			</Icon>
@@ -1597,14 +562,915 @@
 			<styleUrl>#wYellow318</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="wYellow38">
+	<Style id="wYellow336">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow318">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen23">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wYellow314">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#wYellow313</styleUrl>
+			<styleUrl>#wYellow343</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#wYellow311</styleUrl>
+			<styleUrl>#wYellow339</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen1024">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow327">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow32">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<gx:CascadingStyle kml:id="__managed_style_1C9A7227072FCE6DB91A">
+		<Style>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>0.9999</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen1056">
+		<IconStyle>
+			<color>ffff0798</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow335">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen46">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="__managed_style_0F8B06BFE42FCE6DB91A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C9A7227072FCE6DB91A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_285AE465182FCE6DB91A</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen1019">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen109">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wYellow338">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wYellow35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wYellow331</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen14">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow310">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen1043">
+		<IconStyle>
+			<color>ffff0000</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow311">
+		<IconStyle>
+			<color>ffff0000</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen1029">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen1030</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen109</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen1031">
+		<IconStyle>
+			<color>ffff0000</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="wYellow351">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wYellow310</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wYellow39</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wYellow320">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen10">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen1064">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen40">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen28">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen42</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen1052">
+		<IconStyle>
+			<color>ffff0798</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen1010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen108</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen1017">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wYellow334">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wYellow323</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wYellow325</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen1063">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen1022">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen1045</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen1046</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="wGreen1028">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen1056</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen1052</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen19">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wYellow342">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wYellow340</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wYellow345</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="wGreen13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen11">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen1014">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen3">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen45</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wYellow354">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen20">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wYellow344">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wYellow333</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wYellow312</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wYellow0">
+		<IconStyle>
+			<color>ffff0000</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen37</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen34">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow31">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen45">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen1027">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen27">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow339">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen34</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen15">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow350">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wYellow315">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wYellow34</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wYellow33</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wYellow4">
+		<IconStyle>
+			<color>ffff0000</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen1058">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen46</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wYellow326">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wYellow328">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wYellow329</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wYellow356</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="wGreen17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen43</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen33</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wYellow6">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen6">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen29">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen47">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wYellow361">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen32">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen1049">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen1021</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen1023</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen1030">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen44">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen36</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="wGreen1042">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen1061</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen1019</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="wGreen1057">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen1064</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen7">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wYellow330">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wYellow335</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wYellow336</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_285AE465182FCE6DB91A">
+		<Style>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.49985</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Style id="wGreen0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen33">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow360">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wYellow356">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen1060">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen1063</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen1026</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="wYellow8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wYellow7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wYellow6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wYellow5">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen32</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen1047">
+		<IconStyle>
+			<color>ffff0000</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen108">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen35">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen22">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wYellow343">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen41">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen12">
+		<IconStyle>
+			<color>ffff0ccb</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wYellow317">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wYellow320</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wYellow321</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="wYellow39">
@@ -1615,25 +1481,69 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="wYellow4">
+	<Style id="wGreen37">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen4">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="failed">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen1037">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen36">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen100">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wYellow">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wYellow4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wYellow0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen1033">
 		<IconStyle>
 			<color>ffff0000</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow5">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="wYellow6">
-		<IconStyle>
-			<color>ff0000ff</color>
 			<Icon>
 				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
 			</Icon>
@@ -1647,20 +1557,108 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<StyleMap id="wYellow8">
+	<Style id="wGreen42">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen1048">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#wYellow7</styleUrl>
+			<styleUrl>#wGreen1044</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#wYellow6</styleUrl>
+			<styleUrl>#wGreen1038</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Folder>
+	<Style id="wGreen31">
+		<IconStyle>
+			<color>ffff0cae</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen1041">
+		<IconStyle>
+			<color>ffff0000</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wYellow349">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wYellow360</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wYellow359</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="wGreen16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wYellow345">
+		<IconStyle>
+			<color>ffff00aa</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen39">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wYellow325">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="wGreen1011">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen1055</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen1043</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="wGreen38">
+		<IconStyle>
+			<color>ffff0ccb</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder id="0E06B146B12FCE65952B">
 		<name>Waypoints</name>
 		<open>1</open>
-		<Placemark>
+		<Placemark id="0A778BFC5F2FCE65953B">
 			<name>39</name>
 			<address>N/A</address>
 			<TimeStamp><when>2024-02-10T10:17:30Z</when>
@@ -1684,7 +1682,7 @@
 				<coordinates>8.384621841832995,50.0241342606023,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="1BB18B90582FCE65953B">
 			<name>39.1</name>
 			<address>N/A</address>
 			<TimeStamp><when>2024-02-10T10:22:10Z</when>
@@ -1708,7 +1706,7 @@
 				<coordinates>8.38510824367404,50.02410613931715,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="0B40D37C452FCE65953C">
 			<name>38</name>
 			<TimeStamp><when>2024-02-10T10:31:35Z</when>
 </TimeStamp>
@@ -1731,7 +1729,7 @@
 				<coordinates>8.383282162249088,50.02458797302097,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="1E3345053E2FCE65953C">
 			<name>37</name>
 			<address>N/A</address>
 			<TimeStamp><when>2024-02-10T10:38:40Z</when>
@@ -1755,7 +1753,7 @@
 				<coordinates>8.38314545340836,50.02560478169471,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="25859CEE382FCE65953C">
 			<name>36</name>
 			<address>N/A</address>
 			<TimeStamp><when>2024-02-10T10:44:54Z</when>
@@ -1779,7 +1777,7 @@
 				<coordinates>8.381738299503922,50.02525504678488,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="356BF8A74C2FCE65953C">
 			<name>27</name>
 			<TimeStamp><when>2024-02-10T10:59:20Z</when>
 </TimeStamp>
@@ -1802,7 +1800,7 @@
 				<coordinates>8.380842609331012,50.02855994738638,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="092EC1A9612FCE65953D">
 			<name>32</name>
 			<address>N/A</address>
 			<TimeStamp><when>2024-02-10T11:09:28Z</when>
@@ -1826,7 +1824,7 @@
 				<coordinates>8.381784064695239,50.02712224144489,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="1D53924EEE2FCE65953D">
 			<name>33</name>
 			<TimeStamp><when>2024-02-10T11:19:38Z</when>
 </TimeStamp>
@@ -1849,7 +1847,7 @@
 				<coordinates>8.382179439067841,50.02809081226587,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="2BA4B317502FCE65953D">
 			<name>33.1</name>
 			<address>N/A</address>
 			<TimeStamp><when>2024-02-10T11:23:45Z</when>
@@ -1873,7 +1871,7 @@
 				<coordinates>8.380650663748384,50.0295476289466,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="3DF74A04E42FCE65953D">
 			<name>01</name>
 			<address>N/A</address>
 			<TimeStamp><when>2024-02-10T11:31:38Z</when>
@@ -1897,7 +1895,7 @@
 				<coordinates>8.377338387072086,50.03202707972378,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="09020D1BD52FCE65953E">
 			<name>02</name>
 			<address>N/A</address>
 			<TimeStamp><when>2024-02-10T11:33:47Z</when>
@@ -1921,7 +1919,7 @@
 				<coordinates>8.376944940537214,50.03243578132242,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="172DE6584D2FCE65953E">
 			<name>00</name>
 			<address>N/A</address>
 			<TimeStamp><when>2024-02-10T11:37:56Z</when>
@@ -1945,7 +1943,7 @@
 				<coordinates>8.376814853399992,50.03186455462128,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="2F553707782FCE65953E">
 			<name>1</name>
 			<TimeStamp><when>2024-02-10T11:41:04Z</when>
 </TimeStamp>
@@ -1968,7 +1966,7 @@
 				<coordinates>8.376478822901845,50.03137027379125,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="3638B47B602FCE65953E">
 			<name>2</name>
 			<address>N/A</address>
 			<TimeStamp><when>2024-02-10T11:43:19Z</when>
@@ -1992,7 +1990,7 @@
 				<coordinates>8.375896699726582,50.03143942449242,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="45B98F5D342FCE65953E">
 			<name>2.5</name>
 			<TimeStamp><when>2024-02-10T11:45:56Z</when>
 </TimeStamp>
@@ -2015,7 +2013,7 @@
 				<coordinates>8.375099664554,50.03165307920426,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="008620621B2FCE65953F">
 			<name>2.2</name>
 			<TimeStamp><when>2024-02-10T11:49:53Z</when>
 </TimeStamp>
@@ -2038,7 +2036,7 @@
 				<coordinates>8.374228700995445,50.03206349909306,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="120BEB79DE2FCE65953F">
 			<name>2.1</name>
 			<TimeStamp><when>2024-02-10T11:53:24Z</when>
 </TimeStamp>
@@ -2061,7 +2059,7 @@
 				<coordinates>8.374166339635849,50.0307202572003,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="2B113E43A32FCE65953F">
 			<name>16.1</name>
 			<TimeStamp><when>2024-02-10T12:07:13Z</when>
 </TimeStamp>
@@ -2084,7 +2082,7 @@
 				<coordinates>8.375660162419081,50.02945945132524,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="01AA6BD75D2FCE659540">
 			<name>15.1</name>
 			<TimeStamp><when>2024-02-10T12:08:58Z</when>
 </TimeStamp>
@@ -2107,7 +2105,7 @@
 				<coordinates>8.374732788652182,50.02994279377162,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="19D096247E2FCE659540">
 			<name>17</name>
 			<TimeStamp><when>2024-02-10T12:11:03Z</when>
 </TimeStamp>
@@ -2130,7 +2128,7 @@
 				<coordinates>8.376036593690515,50.02979497890919,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="2CCE0D7DDF2FCE659540">
 			<name>17.1</name>
 			<TimeStamp><when>2024-02-10T12:19:53Z</when>
 </TimeStamp>
@@ -2153,7 +2151,7 @@
 				<coordinates>8.376600863412023,50.02942223567516,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="081AF60BF12FCE659541">
 			<name>19.1</name>
 			<TimeStamp><when>2024-02-10T12:21:52Z</when>
 </TimeStamp>
@@ -2176,8 +2174,8 @@
 				<coordinates>8.376944018527865,50.02894065342844,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
-			<name>18.1</name>
+		<Placemark id="1435703E322FCE659541">
+			<name>18.1.2</name>
 			<TimeStamp><when>2024-02-10T12:24:01Z</when>
 </TimeStamp>
 			<styleUrl>#wGreen1029</styleUrl>
@@ -2196,14 +2194,14 @@
 				</Data>
 			</ExtendedData>
 			<Point>
-				<coordinates>8.377951690927148,50.02905427012593,0</coordinates>
+				<coordinates>8.37809297693706,50.0292651792442,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
-			<name>18.2</name>
+		<Placemark id="220266FED52FCE659541">
+			<name>18.1.1</name>
 			<TimeStamp><when>2024-02-10T12:25:13Z</when>
 </TimeStamp>
-			<styleUrl>#wYellow346</styleUrl>
+			<styleUrl>#__managed_style_0F8B06BFE42FCE6DB91A</styleUrl>
 			<ExtendedData>
 				<Data name="accuracy">
 					<displayName>Accuracy</displayName>
@@ -2219,14 +2217,14 @@
 				</Data>
 			</ExtendedData>
 			<Point>
-				<coordinates>8.378095608204603,50.02926356624812,0</coordinates>
+				<coordinates>8.377991856600914,50.02906512859908,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
-			<name>18.3</name>
+		<Placemark id="3205E793312FCE659541">
+			<name>18.2.3</name>
 			<TimeStamp><when>2024-02-10T12:26:39Z</when>
 </TimeStamp>
-			<styleUrl>#wYellow337</styleUrl>
+			<styleUrl>#__managed_style_0F8B06BFE42FCE6DB91A</styleUrl>
 			<ExtendedData>
 				<Data name="accuracy">
 					<displayName>Accuracy</displayName>
@@ -2242,11 +2240,11 @@
 				</Data>
 			</ExtendedData>
 			<Point>
-				<coordinates>8.378157047554851,50.02952801529318,0</coordinates>
+				<coordinates>8.378192888286373,50.0295106175425,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
-			<name>18.4</name>
+		<Placemark id="0979C478BE2FCE659542">
+			<name>18.2.4</name>
 			<TimeStamp><when>2024-02-10T12:27:51Z</when>
 </TimeStamp>
 			<styleUrl>#wYellow330</styleUrl>
@@ -2265,11 +2263,11 @@
 				</Data>
 			</ExtendedData>
 			<Point>
-				<coordinates>8.378208009526134,50.02970160450786,0</coordinates>
+				<coordinates>8.37820624968758,50.02984234990653,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
-			<name>18.5</name>
+		<Placemark id="1500D7A2F42FCE659542">
+			<name>18.3.5</name>
 			<TimeStamp><when>2024-02-10T12:28:51Z</when>
 </TimeStamp>
 			<styleUrl>#wYellow37</styleUrl>
@@ -2288,11 +2286,11 @@
 				</Data>
 			</ExtendedData>
 			<Point>
-				<coordinates>8.378264671191573,50.02999270800501,0</coordinates>
+				<coordinates>8.378293556968984,50.03008330381619,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
-			<name>18.6</name>
+		<Placemark id="2CA3A86D582FCE659542">
+			<name>18.3.6</name>
 			<TimeStamp><when>2024-02-10T12:29:59Z</when>
 </TimeStamp>
 			<styleUrl>#wGreen1049</styleUrl>
@@ -2311,10 +2309,10 @@
 				</Data>
 			</ExtendedData>
 			<Point>
-				<coordinates>8.378369612619281,50.03028724808246,0</coordinates>
+				<coordinates>8.378342220602226,50.03037054737042,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="3034E6964D2FCE659542">
 			<name>20</name>
 			<TimeStamp><when>2024-02-10T12:36:41Z</when>
 </TimeStamp>
@@ -2334,10 +2332,10 @@
 				</Data>
 			</ExtendedData>
 			<Point>
-				<coordinates>8.378188479691744,50.02812299877405,0</coordinates>
+				<coordinates>8.378359029434353,50.02825263306517,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="48B84926422FCE659542">
 			<name>26</name>
 			<TimeStamp><when>2024-02-10T12:41:27Z</when>
 </TimeStamp>
@@ -2357,10 +2355,10 @@
 				</Data>
 			</ExtendedData>
 			<Point>
-				<coordinates>8.378021260723472,50.02749661915004,0</coordinates>
+				<coordinates>8.378178130283633,50.02778245649748,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="02A26057ED2FCE659544">
 			<name>25.1</name>
 			<TimeStamp><when>2024-02-10T12:44:58Z</when>
 </TimeStamp>
@@ -2383,7 +2381,7 @@
 				<coordinates>8.37680303491652,50.02697266638279,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="1AC5E629302FCE659544">
 			<name>22.1</name>
 			<TimeStamp><when>2024-02-10T12:47:47Z</when>
 </TimeStamp>
@@ -2406,7 +2404,7 @@
 				<coordinates>8.375542061403394,50.0263183331117,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="29435800F32FCE659544">
 			<name>22</name>
 			<TimeStamp><when>2024-02-10T12:50:03Z</when>
 </TimeStamp>
@@ -2429,7 +2427,7 @@
 				<coordinates>8.374812919646502,50.02593146637082,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="3E2E574BD42FCE659544">
 			<name>23</name>
 			<TimeStamp><when>2024-02-10T12:57:23Z</when>
 </TimeStamp>
@@ -2452,7 +2450,7 @@
 				<coordinates>8.376037096604705,50.02554761711508,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="49230DA9902FCE659544">
 			<name>24</name>
 			<TimeStamp><when>2024-02-10T12:59:23Z</when>
 </TimeStamp>
@@ -2475,7 +2473,7 @@
 				<coordinates>8.37706346064806,50.02638128120452,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="041C07E82F2FCE659545">
 			<name>28.1</name>
 			<description>Verschwunden ist auch der Kastenstandort bei 28. Steine liegen da ja noch genug herum.</description>
 			<TimeStamp><when>2024-02-10T13:02:13Z</when>
@@ -2499,7 +2497,7 @@
 				<coordinates>8.378234831616282,50.02603070810437,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="1D440767342FCE659545">
 			<name>28.2</name>
 			<TimeStamp><when>2024-02-10T13:04:37Z</when>
 </TimeStamp>
@@ -2522,7 +2520,7 @@
 				<coordinates>8.378433650359511,50.02584467176348,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="26B20820D02FCE659545">
 			<name>28.3</name>
 			<TimeStamp><when>2024-02-10T13:06:11Z</when>
 </TimeStamp>
@@ -2545,7 +2543,7 @@
 				<coordinates>8.378824330866337,50.02560134511441,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="348357EE3E2FCE659545">
 			<name>28.4</name>
 			<TimeStamp><when>2024-02-10T13:11:11Z</when>
 </TimeStamp>
@@ -2568,7 +2566,7 @@
 				<coordinates>8.377858148887753,50.0249939924106,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="06FF9BDA872FCE659546">
 			<name>35</name>
 			<TimeStamp><when>2024-02-10T13:16:58Z</when>
 </TimeStamp>
@@ -2591,7 +2589,7 @@
 				<coordinates>8.380200304090977,50.0239490205422,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="124A40E3FD2FCE659546">
 			<name>12.2</name>
 			<TimeStamp><when>2024-02-10T14:36:29Z</when>
 </TimeStamp>
@@ -2614,7 +2612,7 @@
 				<coordinates>8.375114416703582,50.02760767936707,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="2C052831AB2FCE659546">
 			<name>12.1</name>
 			<TimeStamp><when>2024-02-10T14:41:17Z</when>
 </TimeStamp>
@@ -2637,7 +2635,7 @@
 				<coordinates>8.373314402997494,50.02787305042148,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="0B97C9332E2FCE659547">
 			<name>6.1</name>
 			<TimeStamp><when>2024-02-10T14:43:18Z</when>
 </TimeStamp>
@@ -2660,7 +2658,7 @@
 				<coordinates>8.373496625572443,50.0275377323851,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="10C60740D32FCE659547">
 			<name>6.1.2</name>
 			<TimeStamp><when>2024-02-10T14:48:18Z</when>
 </TimeStamp>
@@ -2683,7 +2681,7 @@
 				<coordinates>8.373447507619858,50.02748836297542,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="26134A52C12FCE659547">
 			<name>6.2</name>
 			<TimeStamp><when>2024-02-10T14:49:25Z</when>
 </TimeStamp>
@@ -2706,7 +2704,7 @@
 				<coordinates>8.373136119917035,50.02731041517109,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="3372719C762FCE659547">
 			<name>6</name>
 			<TimeStamp><when>2024-02-10T14:53:36Z</when>
 </TimeStamp>
@@ -2729,7 +2727,7 @@
 				<coordinates>8.371873805299401,50.02781270071864,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="434BD07C1F2FCE659547">
 			<name>7</name>
 			<TimeStamp><when>2024-02-10T14:56:28Z</when>
 </TimeStamp>
@@ -2752,7 +2750,7 @@
 				<coordinates>8.371545737609267,50.02830685582012,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="5E1DD85A2E2FCE659547">
 			<name>9.1</name>
 			<TimeStamp><when>2024-02-10T14:59:04Z</when>
 </TimeStamp>
@@ -2775,7 +2773,7 @@
 				<coordinates>8.372634882107377,50.02835429739207,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="65F138B6992FCE659547">
 			<name>9.1.1</name>
 			<TimeStamp><when>2024-02-10T15:02:39Z</when>
 </TimeStamp>
@@ -2798,7 +2796,7 @@
 				<coordinates>8.372321650385857,50.02845312003046,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="0747D3BF682FCE659548">
 			<name>9</name>
 			<TimeStamp><when>2024-02-10T15:07:08Z</when>
 </TimeStamp>
@@ -2821,7 +2819,7 @@
 				<coordinates>8.372331708669662,50.02872720826417,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="1F75898D3A2FCE659548">
 			<name>8</name>
 			<TimeStamp><when>2024-02-10T15:08:44Z</when>
 </TimeStamp>
@@ -2844,7 +2842,7 @@
 				<coordinates>8.371726283803582,50.02891102340072,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="2B1B8005C42FCE659548">
 			<name>8.1</name>
 			<TimeStamp><when>2024-02-10T15:12:03Z</when>
 </TimeStamp>
@@ -2867,7 +2865,7 @@
 				<coordinates>8.37205552496016,50.02899383660406,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="3F75A7B4EF2FCE659548">
 			<name>8.1.1</name>
 			<TimeStamp><when>2024-02-10T15:15:42Z</when>
 </TimeStamp>
@@ -2890,7 +2888,7 @@
 				<coordinates>8.372094165533781,50.02899392042309,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="05B8AF3EB72FCE659549">
 			<name>10</name>
 			<TimeStamp><when>2024-02-10T15:17:58Z</when>
 </TimeStamp>
@@ -2913,7 +2911,7 @@
 				<coordinates>8.373053390532732,50.02909563481808,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="1BA59A8C152FCE659549">
 			<name>10.1</name>
 			<TimeStamp><when>2024-02-10T15:19:48Z</when>
 </TimeStamp>
@@ -2936,7 +2934,7 @@
 				<coordinates>8.373700808733702,50.02911495510489,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="22BF1036862FCE659549">
 			<name>3</name>
 			<TimeStamp><when>2024-02-10T15:22:44Z</when>
 </TimeStamp>
@@ -2959,7 +2957,7 @@
 				<coordinates>8.372647454962134,50.02988076768816,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="32067570F42FCE659549">
 			<name>5.1</name>
 			<TimeStamp><when>2024-02-10T15:34:49Z</when>
 </TimeStamp>
@@ -2982,7 +2980,7 @@
 				<coordinates>8.369953511282802,50.02888038754463,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="4835EC6E552FCE659549">
 			<name>5.2</name>
 			<TimeStamp><when>2024-02-10T15:47:07Z</when>
 </TimeStamp>
@@ -3005,7 +3003,7 @@
 				<coordinates>8.37099177762866,50.02968253567815,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="0EBCCF96732FCE65954A">
 			<name>4.1</name>
 			<TimeStamp><when>2024-02-10T15:50:13Z</when>
 </TimeStamp>
@@ -3028,7 +3026,7 @@
 				<coordinates>8.372526001185179,50.03050014842302,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="1754C16A7C2FCE65954A">
 			<name>4</name>
 			<TimeStamp><when>2024-02-10T15:51:16Z</when>
 </TimeStamp>
@@ -3051,7 +3049,7 @@
 				<coordinates>8.372480235993862,50.03064951393753,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="2CFDD9EFBD2FCE65954A">
 			<name>4.2</name>
 			<TimeStamp><when>2024-02-10T15:53:44Z</when>
 </TimeStamp>
@@ -3074,7 +3072,7 @@
 				<coordinates>8.371697785332799,50.03122664988041,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="3CF2E1FB232FCE65954A">
 			<name>4.3</name>
 			<TimeStamp><when>2024-02-10T15:59:38Z</when>
 </TimeStamp>
@@ -3097,7 +3095,7 @@
 				<coordinates>8.373068394139409,50.03184150438756,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="083F48B4A32FCE65954B">
 			<name>44.2</name>
 			<TimeStamp><when>2024-03-24T12:43:15Z</when>
 </TimeStamp>
@@ -3120,7 +3118,7 @@
 				<coordinates>8.387672770768404,50.02268293406814,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="04C48696BC2FCE65954C">
 			<name>44.2a</name>
 			<address>N/A</address>
 			<TimeStamp><when>2024-03-24T12:44:19Z</when>
@@ -3144,7 +3142,7 @@
 				<coordinates>8.387493649497628,50.0225255638361,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="18893768E62FCE65954C">
 			<name>44.3</name>
 			<address>N/A</address>
 			<TimeStamp><when>2024-03-24T12:59:04Z</when>
@@ -3168,7 +3166,7 @@
 				<coordinates>8.387196343392134,50.02136919647455,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="0A1B9A4FE62FCE64F22D">
 			<name>43.1</name>
 			<address>N/A</address>
 			<TimeStamp><when>2024-03-24T13:26:51Z</when>
@@ -3189,10 +3187,10 @@
 				</Data>
 			</ExtendedData>
 			<Point>
-				<coordinates>8.386241800000001,50.0383195,0</coordinates>
+				<coordinates>8.385695025054584,50.02215746870343,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="25BE96C9A62FCE65954C">
 			<name>43.2</name>
 			<address>N/A</address>
 			<TimeStamp><when>2024-03-24T13:42:13Z</when>
@@ -3216,7 +3214,7 @@
 				<coordinates>8.383704274892807,50.0216074520722,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="35A0A4B5692FCE65954C">
 			<name>Weilbach 1</name>
 			<description>3 Kaesten</description>
 			<LookAt>
@@ -3234,7 +3232,7 @@
 				<coordinates>8.450834,50.05183888888889,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="4833BA69E72FCE65954C">
 			<name>Weilbach 3</name>
 			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<MultiGeometry>
@@ -3243,7 +3241,7 @@
 				</Point>
 			</MultiGeometry>
 		</Placemark>
-		<Placemark>
+		<Placemark id="0FC0B826502FCE65954D">
 			<name>Weilbach 4</name>
 			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<MultiGeometry>
@@ -3252,7 +3250,7 @@
 				</Point>
 			</MultiGeometry>
 		</Placemark>
-		<Placemark>
+		<Placemark id="19ECD8882B2FCE65954D">
 			<name>Weilbach 5</name>
 			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<MultiGeometry>
@@ -3261,7 +3259,7 @@
 				</Point>
 			</MultiGeometry>
 		</Placemark>
-		<Placemark>
+		<Placemark id="2527A3B5802FCE65954D">
 			<name>Weilbach 7</name>
 			<description>3 Kaesten</description>
 			<LookAt>
@@ -3279,7 +3277,7 @@
 				<coordinates>8.455175000000001,50.05218055555555,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="374389D0BD2FCE65954D">
 			<name>Weilbach 2</name>
 			<description>2 Kästen</description>
 			<LookAt>
@@ -3297,7 +3295,7 @@
 				<coordinates>8.451510000000001,50.05128888888889,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="059FBF91F82FCE65954E">
 			<name>Weilbach 6</name>
 			<description>3 Kästen</description>
 			<LookAt>
@@ -3315,7 +3313,7 @@
 				<coordinates>8.454350549339583,50.05221832208532,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="1A9F81A4B32FCE65954E">
 			<name>18.4</name>
 			<description>Verschwunden bz.w umgesetzt ist der Haufen 24 mit Kasten. Wir haben ihn versetzt neu gefunden und 18.4 getauft</description>
 			<TimeStamp><when>2024-03-30T09:36:29Z</when>
@@ -3339,7 +3337,7 @@
 				<coordinates>8.379270499572158,50.02922270447016,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="249E5FB1E82FCE65954E">
 			<name>30</name>
 			<TimeStamp><when>2024-03-30T11:12:20Z</when>
 </TimeStamp>
@@ -3362,7 +3360,7 @@
 				<coordinates>8.380308263003826,50.02648299559951,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark id="3E4FF7A7E42FCE65954E">
 			<name>30.1</name>
 			<description>neu angelegt 2024</description>
 			<LookAt>
