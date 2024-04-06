@@ -42,184 +42,6 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_0F8B06BFE42FCE6DB91A0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#failed17</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#failed15</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="__managed_style_0F8B06BFE42FCE6DB91A">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#failed8</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#failed11</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="failed22">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#failed</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#failed3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="failed21">
-		<IconStyle>
-			<color>ffff0000</color>
-		</IconStyle>
-	</Style>
-	<StyleMap id="failed7">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#failed2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#failed0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="failed2">
-		<IconStyle>
-			<color>ffff0000</color>
-		</IconStyle>
-	</Style>
-	<Style id="failed19">
-		<IconStyle>
-			<color>ffff0000</color>
-		</IconStyle>
-	</Style>
-	<Style id="failed20">
-		<IconStyle>
-			<color>ffff0000</color>
-		</IconStyle>
-	</Style>
-	<Style id="failed3">
-		<IconStyle>
-			<color>ffff0000</color>
-		</IconStyle>
-	</Style>
-	<Style id="failed11">
-		<IconStyle>
-			<color>ff0000ff</color>
-		</IconStyle>
-	</Style>
-	<Style id="failed18">
-		<IconStyle>
-			<color>ffff0000</color>
-		</IconStyle>
-	</Style>
-	<Style id="failed5">
-		<IconStyle>
-			<color>ffff0000</color>
-		</IconStyle>
-	</Style>
-	<Style id="failed13">
-		<IconStyle>
-			<color>ffff0000</color>
-		</IconStyle>
-	</Style>
-	<StyleMap id="failed9">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#failed5</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#failed6</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="failed">
-		<IconStyle>
-			<color>ffff0000</color>
-		</IconStyle>
-	</Style>
-	<StyleMap id="failed12">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#failed20</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#failed21</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="failed14">
-		<IconStyle>
-			<color>ffff0000</color>
-		</IconStyle>
-	</Style>
-	<Style id="failed6">
-		<IconStyle>
-			<color>ffff0000</color>
-		</IconStyle>
-	</Style>
-	<Style id="failed15">
-		<IconStyle>
-			<color>ff0000ff</color>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="failed17">
-		<IconStyle>
-			<color>ff0000ff</color>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<StyleMap id="failed4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#failed18</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#failed19</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="failed0">
-		<IconStyle>
-			<color>ffff0000</color>
-		</IconStyle>
-	</Style>
-	<StyleMap id="failed1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#failed00</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#failed10</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="failed16">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#failed13</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#failed14</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="failed8">
-		<IconStyle>
-			<color>ff0000ff</color>
-		</IconStyle>
-	</Style>
-	<Style id="failed00">
-	</Style>
-	<Style id="failed10">
-	</Style>
 	<StyleMap id="m_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
@@ -234,7 +56,7 @@
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
@@ -243,7 +65,7 @@
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
@@ -2486,6 +2308,33 @@
 			</ExtendedData>
 			<Point>
 				<coordinates>8.378359029434353,50.02825263306517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20.1</name>
+			<description>3 Kaesten ohne Haufen</description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2024-02-10T10:17:30Z</begin>
+					<end>2024-03-30T11:12:20Z</end>
+				</gx:TimeSpan>
+				<longitude>8.412564665950709</longitude>
+				<latitude>50.03679443888239</latitude>
+				<altitude>0</altitude>
+				<heading>-5.424557665452593e-09</heading>
+				<tilt>44.99996824888079</tilt>
+				<range>9067.990121084295</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#wYellow38</styleUrl>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Data name="tags">
+					<displayName>Tags</displayName>
+					<value>Kasten</value>
+				</Data>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>8.379350000000001,50.02826111111111,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="48B84926422FCE659542">
