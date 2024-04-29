@@ -2327,15 +2327,14 @@
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<styleUrl>#wYellow38</styleUrl>
-			<gx:balloonVisibility>1</gx:balloonVisibility>
-			<Data name="tags">
-					<displayName>Tags</displayName>
-					<value>Kasten</value>
-				</Data>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>8.379350000000001,50.02826111111111,0</coordinates>
 			</Point>
+			<Data name="tags">
+					<displayName>Tags</displayName>
+					<value>Kasten</value>
+				</Data>
 		</Placemark>
 		<Placemark id="48B84926422FCE659542">
 			<name>26</name>
@@ -3214,6 +3213,90 @@
 			</ExtendedData>
 			<Point>
 				<coordinates>8.383704274892807,50.0216074520722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>41.1</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2024-02-10T10:17:30Z</begin>
+					<end>2024-03-30T11:12:20Z</end>
+				</gx:TimeSpan>
+				<longitude>8.412564255641424</longitude>
+				<latitude>50.03679375927992</latitude>
+				<altitude>0</altitude>
+				<heading>2.226388277024461e-14</heading>
+				<tilt>44.99999999999996</tilt>
+				<range>9035.26795688633</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#wGreen25</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>8.30486,50.01981111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>44</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2024-02-10T10:17:30Z</begin>
+					<end>2024-03-30T11:12:20Z</end>
+				</gx:TimeSpan>
+				<longitude>8.412564255641424</longitude>
+				<latitude>50.03679375927992</latitude>
+				<altitude>0</altitude>
+				<heading>2.226388277024461e-14</heading>
+				<tilt>44.99999999999996</tilt>
+				<range>9035.26795688633</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#wGreen25</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>8.386039999999999,50.02125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>45.1</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2024-02-10T10:17:30Z</begin>
+					<end>2024-03-30T11:12:20Z</end>
+				</gx:TimeSpan>
+				<longitude>8.412564255641424</longitude>
+				<latitude>50.03679375927992</latitude>
+				<altitude>0</altitude>
+				<heading>2.226388277024461e-14</heading>
+				<tilt>44.99999999999996</tilt>
+				<range>9035.26795688633</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#wGreen25</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>8.382069444444445,50.01906111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>45.2</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2024-02-10T10:17:30Z</begin>
+					<end>2024-03-30T11:12:20Z</end>
+				</gx:TimeSpan>
+				<longitude>8.412564255641424</longitude>
+				<latitude>50.03679375927992</latitude>
+				<altitude>0</altitude>
+				<heading>2.226388277024461e-14</heading>
+				<tilt>44.99999999999996</tilt>
+				<range>9035.26795688633</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#wGreen25</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>8.381667999999999,50.01854999999999,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="35A0A4B5692FCE65954C">
