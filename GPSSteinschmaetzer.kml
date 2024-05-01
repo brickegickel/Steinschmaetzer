@@ -42,34 +42,6 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="m_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
 	<Style id="wGreen">
 		<IconStyle>
 			<color>ffff0cae</color>
@@ -94,6 +66,22 @@
 			</Icon>
 		</IconStyle>
 	</Style>
+	<Style id="wGreen13">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen17">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
 	<Style id="wGreen10">
 		<IconStyle>
 			<color>ff0000ff</color>
@@ -103,6 +91,14 @@
 		</IconStyle>
 	</Style>
 	<Style id="wGreen100">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen1000">
 		<IconStyle>
 			<color>ff0000ff</color>
 			<Icon>
@@ -167,7 +163,7 @@
 	<StyleMap id="wGreen1015">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#wGreen100</styleUrl>
+			<styleUrl>#wGreen1000</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -571,7 +567,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#wGreen10</styleUrl>
+			<styleUrl>#wGreen100</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="wGreen1058">
@@ -682,7 +678,7 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<StyleMap id="wGreen13">
+	<StyleMap id="wGreen130">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#wGreen38</styleUrl>
@@ -718,7 +714,7 @@
 			<styleUrl>#wGreen28</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="wGreen17">
+	<StyleMap id="wGreen170">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#wGreen43</styleUrl>
@@ -800,10 +796,40 @@
 			<styleUrl>#wGreen20</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="wGreen25">
+	<StyleMap id="wGreen250">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#wGreen4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="wGreen25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen47</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="wGreen251">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wGreen10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="wGreen252">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wGreen41</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -944,6 +970,30 @@
 			</Icon>
 		</IconStyle>
 	</Style>
+	<Style id="wGreen47">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen44">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="wGreen41">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
 	<Style id="wGreen40">
 		<IconStyle>
 			<color>ffff0cae</color>
@@ -952,7 +1002,7 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="wGreen41">
+	<Style id="wGreen410">
 		<IconStyle>
 			<color>ff0000ff</color>
 			<Icon>
@@ -976,7 +1026,7 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<StyleMap id="wGreen44">
+	<StyleMap id="wGreen440">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#wGreen31</styleUrl>
@@ -1002,7 +1052,7 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<StyleMap id="wGreen47">
+	<StyleMap id="wGreen470">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#wGreen23</styleUrl>
@@ -1019,7 +1069,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#wGreen41</styleUrl>
+			<styleUrl>#wGreen410</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="wGreen6">
@@ -1638,7 +1688,7 @@
 			<address>N/A</address>
 			<TimeStamp><when>2024-02-10T10:17:30Z</when>
 </TimeStamp>
-			<styleUrl>#wGreen13</styleUrl>
+			<styleUrl>#wGreen130</styleUrl>
 			<ExtendedData>
 				<Data name="accuracy">
 					<displayName>Accuracy</displayName>
@@ -1662,7 +1712,7 @@
 			<address>N/A</address>
 			<TimeStamp><when>2024-02-10T10:22:10Z</when>
 </TimeStamp>
-			<styleUrl>#wGreen44</styleUrl>
+			<styleUrl>#wGreen440</styleUrl>
 			<ExtendedData>
 				<Data name="accuracy">
 					<displayName>Accuracy</displayName>
@@ -1709,7 +1759,7 @@
 			<address>N/A</address>
 			<TimeStamp><when>2024-02-10T10:38:40Z</when>
 </TimeStamp>
-			<styleUrl>#wGreen17</styleUrl>
+			<styleUrl>#wGreen170</styleUrl>
 			<ExtendedData>
 				<Data name="accuracy">
 					<displayName>Accuracy</displayName>
@@ -1969,7 +2019,7 @@
 			<name>2.5</name>
 			<TimeStamp><when>2024-02-10T11:45:56Z</when>
 </TimeStamp>
-			<styleUrl>#wGreen47</styleUrl>
+			<styleUrl>#wGreen470</styleUrl>
 			<ExtendedData>
 				<Data name="accuracy">
 					<displayName>Accuracy</displayName>
@@ -1992,7 +2042,7 @@
 			<name>2.2</name>
 			<TimeStamp><when>2024-02-10T11:49:53Z</when>
 </TimeStamp>
-			<styleUrl>#wGreen25</styleUrl>
+			<styleUrl>#wGreen252</styleUrl>
 			<ExtendedData>
 				<Data name="accuracy">
 					<displayName>Accuracy</displayName>
@@ -3096,6 +3146,69 @@
 				<coordinates>8.373068394139409,50.03184150438756,0</coordinates>
 			</Point>
 		</Placemark>
+		<Placemark>
+			<name>41</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2024-02-10T10:17:30Z</begin>
+					<end>2024-03-30T11:12:20Z</end>
+				</gx:TimeSpan>
+				<longitude>8.383473387281978</longitude>
+				<latitude>50.02007059368095</latitude>
+				<altitude>0</altitude>
+				<heading>0.007677993514429929</heading>
+				<tilt>32.69048856164613</tilt>
+				<range>913.8209760253819</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#wGreen25</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>8.381569000000001,50.02046944444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>41.1</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2024-02-10T10:17:30Z</begin>
+					<end>2024-03-30T11:12:20Z</end>
+				</gx:TimeSpan>
+				<longitude>8.412564255641424</longitude>
+				<latitude>50.03679375927992</latitude>
+				<altitude>0</altitude>
+				<heading>2.226388277024461e-14</heading>
+				<tilt>44.99999999999996</tilt>
+				<range>9035.26795688633</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#wGreen250</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>8.3815689,50.02046666666666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>41.2</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2024-02-10T10:17:30Z</begin>
+					<end>2024-03-30T11:12:20Z</end>
+				</gx:TimeSpan>
+				<longitude>8.383473387281978</longitude>
+				<latitude>50.02007059368095</latitude>
+				<altitude>0</altitude>
+				<heading>0.007677993514429929</heading>
+				<tilt>32.69048856164613</tilt>
+				<range>913.8209760253819</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#wGreen251</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>8.382768,50.02065,0</coordinates>
+			</Point>
+		</Placemark>
 		<Placemark id="083F48B4A32FCE65954B">
 			<name>44.2</name>
 			<TimeStamp><when>2024-03-24T12:43:15Z</when>
@@ -3216,27 +3329,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>41.1</name>
-			<LookAt>
-				<gx:TimeSpan>
-					<begin>2024-02-10T10:17:30Z</begin>
-					<end>2024-03-30T11:12:20Z</end>
-				</gx:TimeSpan>
-				<longitude>8.412564255641424</longitude>
-				<latitude>50.03679375927992</latitude>
-				<altitude>0</altitude>
-				<heading>2.226388277024461e-14</heading>
-				<tilt>44.99999999999996</tilt>
-				<range>9035.26795688633</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#wGreen25</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>8.30486,50.01981111111111,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>44</name>
 			<LookAt>
 				<gx:TimeSpan>
@@ -3251,7 +3343,7 @@
 				<range>9035.26795688633</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#wGreen25</styleUrl>
+			<styleUrl>#wGreen252</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>8.386039999999999,50.02125,0</coordinates>
@@ -3272,7 +3364,7 @@
 				<range>9035.26795688633</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#wGreen25</styleUrl>
+			<styleUrl>#wGreen252</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>8.382069444444445,50.01906111111111,0</coordinates>
@@ -3293,7 +3385,7 @@
 				<range>9035.26795688633</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#wGreen25</styleUrl>
+			<styleUrl>#wGreen252</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>8.381667999999999,50.01854999999999,0</coordinates>
